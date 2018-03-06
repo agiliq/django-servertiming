@@ -19,5 +19,5 @@ Installation and Usage
 ===============================================
 
 * Add :code:`Servertiming` app to your project (Pip install coming soon)
-* Add :code`'servertiming.middleware.ServerTimingMiddleware'` to your :code:`settings.MIDDLEWARE`
+* Add :code:`'servertiming.middleware.ServerTimingMiddleware'` to your :code:`settings.MIDDLEWARE`
 * Open any page and go to Chrome → Dev Tools → Network → Timing
